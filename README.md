@@ -1,1 +1,1 @@
-# small images of blood_cell for testing classification
+# 혈구 자동분류 시험을 위해 만든 작은 이미지
